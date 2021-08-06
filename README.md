@@ -1,6 +1,6 @@
-### Hi there 👋
+# Anastasia Kalenik Personal Site
 
-leenore
+Hi there 👋
 
 <!--
 **leenore/leenore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
